@@ -1,0 +1,51 @@
+id_predio,codigo_predio,nombre_predio,vereda,sector,tipo_predio,cedula_propietario
+1,pred-001,finca la esperanza,el paraiso,tablazo centro,comercial,1017123001
+2,pred-002,cabaña el remanso,el paraiso,sector tablazo parte alta,residencial,1017123002
+3,pred-003,parcela san jose,el paraiso,sector el hoyo,residencial,1017123003
+4,pred-004,lote los arrayanes,el paraiso,tablazo parte baja,industrial,1017123004
+5,pred-005,villa maria,el paraiso,sector colegio,residencial,1017123005
+6,pred-006,local comercial plaza,el paraiso,tablazo centro,comercial,1017123006
+7,pred-007,finca el paraiso,el paraiso,sector el hoyo,comercial,1017123007
+8,pred-008,hacienda santa fe,el paraiso,tablazo parte baja,oficial,1017123008
+9,pred-009,casa campestre,el paraiso,tablazo centro,residencial,1017123009
+10,pred-010,bodega central,el paraiso,sector el hoyo,industrial,1017123010
+11,pred-011,finca los naranjos,el paraiso,sector tablazo parte alta,residencial,1017123011
+12,pred-012,rancho alegre,el paraiso,tablazo parte baja,comercial,1017123012
+13,pred-013,villa luz,el paraiso,sector colegio,residencial,1017123013
+14,pred-014,colegio san juan,el paraiso,sector tablazo parte alta,oficial,1017123014
+15,pred-015,finca san luis,el paraiso,tablazo centro,residencial,1017123015
+16,pred-016,rest. las palmas,el paraiso,tablazo parte baja,comercial,1017123016
+17,pred-017,lote el pinar,el paraiso,sector tablazo parte alta,residencial,1017123017
+18,pred-018,finca el bosque,el paraiso,tablazo centro,residencial,1017123018
+19,pred-019,taller los pinos,el paraiso,sector el hoyo,industrial,1017123019
+20,pred-020,cabaña el sol,el paraiso,tablazo parte baja,residencial,1017123020
+21,pred-021,finca la ceiba,el paraiso,tablazo centro,residencial,1017123021
+22,pred-022,parqueadero central,el paraiso,sector el hoyo,comercial,1017123022
+23,pred-023,villa sofia,el paraiso,sector tablazo parte alta,residencial,1017123023
+24,pred-024,finca el mirador,el paraiso,tablazo parte baja,residencial,1017123024
+25,pred-025,puesto de salud,el paraiso,sector colegio,oficial,1017123025
+26,pred-026,finca la union,el paraiso,sector tablazo parte alta,residencial,1017123026
+27,pred-027,cabaña luna,el paraiso,tablazo centro,residencial,1017123027
+28,pred-028,mercadito real,el paraiso,sector el hoyo,comercial,1017123028
+29,pred-029,finca san antonio,el paraiso,tablazo parte baja,residencial,1017123029
+30,pred-030,lote la palma,el paraiso,tablazo centro,industrial,1017123030
+31,pred-031,villa laura,el paraiso,sector el hoyo,residencial,1017123031
+32,pred-032,finca el trebol,el paraiso,sector tablazo parte alta,residencial,1017123032
+33,pred-033,hotel el paisa,el paraiso,tablazo parte baja,comercial,1017123033
+34,pred-034,finca las acacias,el paraiso,sector el hoyo,residencial,1017123034
+35,pred-035,cabaña primavera,el paraiso,sector tablazo parte alta,residencial,1017123035
+36,pred-036,sede comunal,el paraiso,sector colegio,oficial,1017123036
+37,pred-037,finca la alborada,el paraiso,tablazo parte baja,residencial,1017123037
+38,pred-038,panaderia la central,el paraiso,sector tablazo parte alta,comercial,1017123038
+39,pred-039,villa carmen,el paraiso,tablazo centro,residencial,1017123039
+40,pred-040,finca el roble,el paraiso,sector el hoyo,residencial,1017123040
+41,pred-041,fabrica de hielo,el paraiso,tablazo parte baja,industrial,1017123041
+42,pred-042,cabaña las margaritas,el paraiso,tablazo centro,residencial,1017123042
+43,pred-043,finca la esmeralda,el paraiso,sector el hoyo,residencial,1017123043
+44,pred-044,lote san pedro,el paraiso,sector tablazo parte alta,residencial,1017123044
+45,pred-045,villa paula,el paraiso,tablazo parte baja,residencial,1017123045
+46,pred-046,finca los guayabos,el paraiso,sector el hoyo,residencial,1017123046
+47,pred-047,super tienda,el paraiso,sector tablazo parte alta,comercial,1017123047
+48,pred-048,cabaña los pinos,el paraiso,tablazo centro,residencial,1017123048
+49,pred-049,finca el portal,el paraiso,sector el hoyo,residencial,1017123049
+50,pred-050,lote santa maria,el paraiso,tablazo parte baja,comercial,1017123050

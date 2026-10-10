@@ -1,0 +1,51 @@
+id_predio,codigo_predio,nombre_predio,vereda,sector,tipo_predio,cedula_propietario
+1,PRED-001,Finca La Esperanza,  El Paraiso ,Tablazo Centro,Comercial,1017123001
+2,PRED-002, Cabaña El Remanso ,El Paraiso,Sector Tablazo parte Alta, residencial ,1017123002
+3,PRED-003,Parcela San Jose,el paraiso,Sector El hoyo,Residencial,1017123003
+4,PRED-004,Lote Los Arrayanes,,Tablazo parte baja,Industrial,1017123004
+5,PRED-005, Villa Maria ,El Paraiso,Sector Colegio,RESIDENCIAL,1017123005
+6,PRED-006,Local Comercial Plaza,  El Paraiso ,Tablazo Centro,Comercial,1017123006
+7,PRED-007,Finca El Paraiso,El Paraiso,Sector El hoyo,Comercial,1017123007
+8,PRED-008,Hacienda Santa Fe,el paraiso,Tablazo parte baja,Oficial,1017123008
+9,PRED-009, Casa Campestre ,El Paraiso,Tablazo Centro,residencial,1017123009
+10,PRED-010,Bodega Central,  El Paraiso ,Sector El hoyo,Industrial,1017123010
+11,PRED-011,Finca Los Naranjos,El Paraiso,Sector Tablazo parte Alta,Residencial,1017123011
+12,PRED-012,Rancho Alegre,,Tablazo parte baja,Comercial,1017123012
+13,PRED-013, Villa Luz ,El Paraiso,Sector Colegio,RESIDENCIAL,1017123013
+14,PRED-014,Colegio San Juan,el paraiso,Sector Tablazo parte Alta,Oficial,1017123014
+15,PRED-015,Finca San Luis,El Paraiso,Tablazo Centro,Residencial,1017123015
+16,PRED-016, Rest. Las Palmas ,El Paraiso,Tablazo parte baja,Comercial,1017123016
+17,PRED-017,Lote El Pinar,,Sector Tablazo parte Alta,Residencial,1017123017
+18,PRED-018,Finca El Bosque,El Paraiso,Tablazo Centro,Residencial,1017123018
+19,PRED-019,Taller Los Pinos,el paraiso,Sector El hoyo,Industrial,1017123019
+20,PRED-020, Cabaña El Sol ,El Paraiso,Tablazo parte baja,RESIDENCIAL,1017123020
+21,PRED-021,Finca La Ceiba,El Paraiso,Tablazo Centro,Residencial,1017123021
+22,PRED-022,Parqueadero Central,el paraiso,Sector El hoyo,Comercial,1017123022
+23,PRED-023, Villa Sofia ,El Paraiso,Sector Tablazo parte Alta,Residencial,1017123023
+24,PRED-024,Finca El Mirador,El Paraiso,Tablazo parte baja,Residencial,1017123024
+25,PRED-025,Puesto de Salud,,Sector Colegio,Oficial,1017123025
+26,PRED-026,Finca La Union,El Paraiso,Sector Tablazo parte Alta,Residencial,1017123026
+27,PRED-027, Cabaña Luna ,el paraiso,Tablazo Centro,RESIDENCIAL,1017123027
+28,PRED-028,Mercadito Real,El Paraiso,Sector El hoyo,Comercial,1017123028
+29,PRED-029,Finca San Antonio,El Paraiso,Tablazo parte baja,Residencial,1017123029
+30,PRED-030,Lote La Palma,,Tablazo Centro,Industrial,1017123030
+31,PRED-031, Villa Laura ,El Paraiso,Sector El hoyo,Residencial,1017123031
+32,PRED-032,Finca El Trebol,el paraiso,Sector Tablazo parte Alta,Residencial,1017123032
+33,PRED-033,Hotel El Paisa,El Paraiso,Tablazo parte baja,Comercial,1017123033
+34,PRED-034,Finca Las Acacias,El Paraiso,Sector El hoyo,Residencial,1017123034
+35,PRED-035, Cabaña Primavera ,el paraiso,Sector Tablazo parte Alta,RESIDENCIAL,1017123035
+36,PRED-036,Sede Comunal,,Sector Colegio,Oficial,1017123036
+37,PRED-037,Finca La Alborada,El Paraiso,Tablazo parte baja,Residencial,1017123037
+38,PRED-038,Panaderia La Central,el paraiso,Sector Tablazo parte Alta,Comercial,1017123038
+39,PRED-039, Villa Carmen ,El Paraiso,Tablazo Centro,Residencial,1017123039
+40,PRED-040,Finca El Roble,El Paraiso,Sector El hoyo,Residencial,1017123040
+41,PRED-041,Fabrica De Hielo,el paraiso,Tablazo parte baja,Industrial,1017123041
+42,PRED-042, Cabaña Las Margaritas ,El Paraiso,Tablazo Centro,RESIDENCIAL,1017123042
+43,PRED-043,Finca La Esmeralda,,Sector El hoyo,Residencial,1017123043
+44,PRED-044,Lote San Pedro,El Paraiso,Sector Tablazo parte Alta,Residencial,1017123044
+45,PRED-045, Villa Paula ,el paraiso,Tablazo parte baja,Residencial,1017123045
+46,PRED-046,Finca Los Guayabos,El Paraiso,Sector El hoyo,Residencial,1017123046
+47,PRED-047,Super Tienda,El Paraiso,Sector Tablazo parte Alta,Comercial,1017123047
+48,PRED-048, Cabaña Los Pinos ,el paraiso,Tablazo Centro,RESIDENCIAL,1017123048
+49,PRED-049,Finca El Portal,El Paraiso,Sector El hoyo,Residencial,1017123049
+50,PRED-050,Lote Santa Maria,,Tablazo parte baja,Comercial,1017123050
