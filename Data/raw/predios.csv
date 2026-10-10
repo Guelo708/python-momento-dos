@@ -11,7 +11,7 @@ id_predio,codigo_predio,nombre_predio,vereda,sector,tipo_predio,cedula_propietar
 10,PRED-010,Bodega Central,  El Paraiso ,Sector El hoyo,Industrial,1017123010
 11,PRED-011,Finca Los Naranjos,El Paraiso,Sector Tablazo parte Alta,Residencial,1017123011
 12,PRED-012,Rancho Alegre,,Tablazo parte baja,Comercial,1017123012
-13,PRED-013, Villa Luz ,El Paraiso,Sector Colegio,RESIDENCIAL,1017123013
+13,PRED-013, Villa Luz ,El PARAISO,Sector Colegio,RESIDENCIAL,1017123013
 14,PRED-014,Colegio San Juan,el paraiso,Sector Tablazo parte Alta,Oficial,1017123014
 15,PRED-015,Finca San Luis,El Paraiso,Tablazo Centro,Residencial,1017123015
 16,PRED-016, Rest. Las Palmas ,El Paraiso,Tablazo parte baja,Comercial,1017123016
